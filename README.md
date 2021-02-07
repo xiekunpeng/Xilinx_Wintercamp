@@ -2,7 +2,7 @@
 This project is created to apply for xilinx wintercamp. 
 个人简介和项目经验：  
 主要研究方向是量化算法和基于FPGA平台的CNN设计。  
-项目经验：第一次冬令营中，使用DPU+DNNDK工具链完成基于ultra96平台和Pynq的眼底网络实现。  
+项目经验：第一次冬令营中，使用DPU+DNNDK工具链完成基于ultra96的眼底网络实现。  
 项目申请：1，基于Alveo平台的眼底网络实现 2，尝试使用FINN框架部署lenet5网络模型  
 1，基于Alveo平台的眼底网络实现  
 本人在第一次冬令营使用MPSOC平台后，大致了解DPU的部署流程。不过当时Vitis AI还未正式推出，使用的是传统的开发模式。在这一次活动中，我想尝试使用数据中心的FPGA平台Alveo来实现眼底网络模型，旨在熟悉该类FPGA的开发流程和熟悉Vitis AI的使用方式。  
